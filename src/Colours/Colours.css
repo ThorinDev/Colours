@@ -2,3 +2,15 @@
   Chris Nethercott / ThorinDev
   Colours
 */
+.safetyRed {
+  color: #bd1e24;
+}
+.safetyBlue {
+  color: #0067a7;
+}
+.safetyGreen {
+  color: #007256;
+}
+.safetyYellow {
+  color: #f6c700;
+}
