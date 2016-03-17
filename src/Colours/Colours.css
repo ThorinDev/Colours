@@ -2,6 +2,8 @@
   Chris Nethercott / ThorinDev
   Colours
 */
+
+/* Safety Colours */
 .safetyRed {
   color: #bd1e24;
 }
@@ -13,4 +15,11 @@
 }
 .safetyYellow {
   color: #f6c700;
+}
+/* Highway Colours */
+.highwayRed {
+  color: #a6001a;
+}
+.highwayBlue {
+  color: #00477e;
 }
